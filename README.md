@@ -13,5 +13,4 @@ positive sign in the country.
 Whereas, in South Korea, the situation is not good as the death cases are increasing with increase in number of people getting diagnosed with the virus 
 and the recovery is less.
 
-
-
+![China](https://user-images.githubusercontent.com/47153425/75932541-aa3b7880-5e45-11ea-9b44-d3baaec76ac9.png)
