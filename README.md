@@ -1,9 +1,9 @@
 # Coronavirus
 
-The coronavirus package is easily availble in R because of RamiKrispin (https://github.com/RamiKrispin/coronavirus/blob/master/README.md)
+The coronavirus package is easily available in R because of RamiKrispin (https://github.com/RamiKrispin/coronavirus/blob/master/README.md)
 
 ## Goal
-The aim was to visualize the coronavirus data that has hit many countries till now using stacked barchart.
+The aim was to visualize the situation of different countries that have been affected by coronavirus. 
 
 ## Result
 
@@ -16,4 +16,4 @@ and the recovery is less.
 
 ![China](https://user-images.githubusercontent.com/47153425/75923874-eebe1880-5e33-11ea-92d9-907aaa631a68.png)
 
-
+![South Korea](https://user-images.githubusercontent.com/47153425/75923931-0d241400-5e34-11ea-8621-6d46a5e40658.png)
