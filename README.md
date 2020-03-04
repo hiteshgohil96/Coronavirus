@@ -1,6 +1,6 @@
 # Coronavirus
 
-The coronavirus package is easily availble in R because of [RamiKrispin] (https://github.com/RamiKrispin/coronavirus/blob/master/README.md)
+The coronavirus package is easily availble in R because of RamiKrispin (https://github.com/RamiKrispin/coronavirus/blob/master/README.md)
 
 ## Goal
 The aim was to visualize the coronavirus data that has hit many countries till now using stacked barchart.
@@ -14,6 +14,6 @@ Whereas, in South Korea, the situation is not good as the death cases are increa
 and the recovery is less.
 
 
-
+![China](https://user-images.githubusercontent.com/47153425/75923874-eebe1880-5e33-11ea-92d9-907aaa631a68.png)
 
 
