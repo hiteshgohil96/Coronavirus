@@ -14,6 +14,4 @@ Whereas, in South Korea, the situation is not good as the death cases are increa
 and the recovery is less.
 
 
-![China](https://user-images.githubusercontent.com/47153425/75923874-eebe1880-5e33-11ea-92d9-907aaa631a68.png)
 
-![South Korea](https://user-images.githubusercontent.com/47153425/75923931-0d241400-5e34-11ea-8621-6d46a5e40658.png)
