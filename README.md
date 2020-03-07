@@ -15,3 +15,7 @@ Whereas, in South Korea and Iran, the situation is not good as the death cases a
 ![China](https://user-images.githubusercontent.com/47153425/75932541-aa3b7880-5e45-11ea-9b44-d3baaec76ac9.png)
 ![Iran](https://user-images.githubusercontent.com/47153425/75932966-c68be500-5e46-11ea-839c-c894e97908b1.png)
 ![South Korea](https://user-images.githubusercontent.com/47153425/75932972-c986d580-5e46-11ea-9101-b99eb50de4c3.png)
+
+## Recovery Rate
+
+The recovery rate of the countries who has atleast 10 confirmed cases. It is seen that Vietnam has 100% recovery rate where as spain is the least.
