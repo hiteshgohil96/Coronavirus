@@ -20,4 +20,5 @@ Whereas, in South Korea and Iran, the situation is not good as the death cases a
 
 The recovery rate of the countries who has atleast 10 confirmed cases. It is seen that Vietnam has 100% recovery rate where as spain is the least.
 
-![Recovery_rate](https://user-images.githubusercontent.com/47153425/76154163-bfaedd80-60a5-11ea-9939-2958879d2a6c.png)
+![Recovery_rate](https://user-images.githubusercontent.com/47153425/76154182-0e5c7780-60a6-11ea-8e26-694e03d05e1a.png)
+
