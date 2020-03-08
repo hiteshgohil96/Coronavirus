@@ -67,5 +67,28 @@ plotcountry(coronavirus,'Japan')
 
 
 
+### RECOVERY AND DEATH RATE  ########
+
+xx <- coronavirus %>% select(country = Country.Region,type,cases) %>% group_by(country,type) %>% summarise(cases = sum(cases))
+
+## HAVING ACTIVE CASES MORE THAN 10 
+
+active <- xx %>% filter(type == "confirmed", cases > 10)
+recovered <- xx %>% filter(type == "recovered")
+death <- xx %>% filter(type == "death")
+
+
+
+xzzz <- merge(active,recovered, by = 'country')
+total <- merge(xzzz,death, by = 'country', all.x = TRUE)
+total <- transform(total, recovery_rate = total$cases.y*100/total$cases.x)
+total_recovery <- total[order(-total[,8]),]
+total <- transform(total, death_rate = total$cases*100/total$cases.x)
+
+## PLOT 
+
+ggplot(total, aes(x= reorder(country, -recovery_rate), y = recovery_rate)) + geom_bar(stat = 'identity', color = 'darkblue', fill = 'red') + 
+  coord_flip() + ggtitle("Recovery Rate of Different Countries") + xlab("Country") + ylab("Recovery Rate in %")
+
 
 
